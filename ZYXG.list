@@ -1,8 +1,8 @@
 mod.io# 内容：自用 香港
 # 域名关键字匹配
-DOMAIN-KEYWORD,mod.io
-DOMAIN-KEYWORD,io
+#DOMAIN-KEYWORD,mod.io
+#DOMAIN-KEYWORD,io
 # 域名后缀匹配
-DOMAIN-SUFFIX,mod.io
-DOMAIN-SUFFIX,modcdn.io
-DOMAIN-SUFFIX,thumb.modcdn.io
+#DOMAIN-SUFFIX,mod.io
+#DOMAIN-SUFFIX,modcdn.io
+#DOMAIN-SUFFIX,thumb.modcdn.io
