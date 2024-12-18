@@ -5,3 +5,4 @@ DOMAIN-KEYWORD,io
 # 域名后缀匹配
 DOMAIN-SUFFIX,mod.io
 DOMAIN-SUFFIX,modcdn.io
+DOMAIN-SUFFIX,thumb.modcdn.io
